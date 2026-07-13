@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, seed the data into the database,
+
+```bash
+npm run seed
+```
+
+then run the development server:
 
 ```bash
 npm run dev
@@ -34,3 +40,50 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+## Part 1
+
+* ✅ Dashboard layout
+* ✅ Sidebar
+* ✅ Navbar
+* ✅ Statistics cards
+* ✅ Responsive layout
+
+## Part 2
+
+* ✅ Campaign CRUD pages
+* ✅ "New Campaign" modal
+* ✅ Email editor
+* ✅ Database integration
+
+## Part 3
+
+* ✅ Recipient management
+* ✅ CSV import
+* ✅ Search/filter
+
+## Part 4
+
+* ✅ Scheduler page
+* ✅ Daily/Weekly/Monthly automation
+* ✅ Pause/Resume
+* ✅ SQLite tables
+
+## Part 5
+
+* ✅ API routes
+* ✅ Server Actions
+* ✅ Complete CRUD
+
+## Part 6
+
+* ✅ Polish
+* ✅ Animations
+* ✅ Dark mode
+* ✅ Mobile responsive
+
+
+https://chatgpt.com/s/t_6a5034fe85bc8191bf4fea2a8fdcceae
+
