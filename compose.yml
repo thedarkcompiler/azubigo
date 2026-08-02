@@ -1,0 +1,9 @@
+services:
+  azubigo-email-tool:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: darkcompiler/azubigoemailtool:latest
+    container_name: azubigo-email-tool
+    ports:
+      - "3000:3000"
